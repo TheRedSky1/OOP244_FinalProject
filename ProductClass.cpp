@@ -291,7 +291,6 @@ public:
 };
 
 int main() {
-    // Example usage of the specific product classes
 
     DisplayManager displayManager;
 
